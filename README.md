@@ -1,3 +1,7 @@
+## Sree Ram  Radha Krishnan
+
+Myself undergraduate in `Geo-informatics` has 2 years of work experience in `GIS and Remote sensing`. I am also a geospatial freelancer in fiverr [sreeram radhakrishnan](https://www.fiverr.com/sreeram720?up_rollout=true)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
