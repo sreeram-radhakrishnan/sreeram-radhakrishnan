@@ -2,6 +2,11 @@
 
 Myself undergraduate in `Geo-informatics` has 2 years of work experience in `GIS and Remote sensing`. I am also a geospatial freelancer in fiverr [sreeram radhakrishnan](https://www.fiverr.com/sreeram720?up_rollout=true)
 
+### Certifications
+
+* _**Learning QGIS**_ - LinkedIn
+* _**python automation process**_ - LinkedIn
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
