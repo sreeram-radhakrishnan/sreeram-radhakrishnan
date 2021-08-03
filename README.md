@@ -1,7 +1,7 @@
 ## Sree Ram  Radha Krishnan
 [![GitHub Badge](https://img.shields.io/github/followers/sreeram-radhakrishnan?style=social)](https://github.com/sreeram-radhakrishnan?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/sree-ram-radha-krishnan)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](C:\Users\sreer\Desktop\Sreeram_Resume)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1GwgkrawTae3kcnqDoeWuaIlM92PHkBmb/view?usp=sharing)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/sreeram-radhakrishnan)
 
 
